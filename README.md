@@ -17,3 +17,4 @@ This dataset is a valuable resource for automotive enthusiasts, buyers, and rese
 This Model uses matplolib and Seaborn for visualizations such as heatmaps, histograms, etc. Various classes of Scikit learn, Pandas, Numpy, ensembles, regressor, XGBOOST and CatBoostRegressor, encoders, etc.
 
 The model predicts the price of the Car by using the given data.
+Ouptut file = "submissionAryan.csv"
