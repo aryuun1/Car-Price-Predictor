@@ -18,3 +18,4 @@ This Model uses matplolib and Seaborn for visualizations such as heatmaps, histo
 
 The model predicts the price of the Car by using the given data.
 Ouptut file = "submissionAryan.csv"
+The IDs in the submission file is specific to the data instances in the test.csv.
