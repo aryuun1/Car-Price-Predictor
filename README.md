@@ -1,4 +1,5 @@
 # Car-Price-Predictor
+!!!This is a part of a Kaggle competition.
 Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, https://www.cars.com. This dataset comprises 4,009 data points, each representing a unique vehicle listing, and includes nine distinct features providing valuable insights into the world of automobiles.
 
 1. Brand & Model: Identify the brand or company name along with the specific model of each vehicle.
